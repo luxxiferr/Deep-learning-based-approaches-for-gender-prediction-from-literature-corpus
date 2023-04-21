@@ -5,3 +5,6 @@ Author profiling consists on obtain information about the author. In this paper,
 For Spacy we used the corpus name authors_corpus (1) (1).csv.
 For Flair we used the splits in Fast Text format.
 For the Transformer's Notebook we used the split: train.csv and test.csv with 0's and 1's labels.
+
+
+Authors: Cristina Fernández (cfernandez127@ikasle.ehu.eus) and Lucía Palacios (lpalacios011@ikasle.ehu.eus).
